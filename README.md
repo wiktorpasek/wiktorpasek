@@ -1,16 +1,36 @@
-## Hi there 👋
+# Cześć! Jestem Wiktor Pasek 👋
 
-<!--
-**wiktorpasek/wiktorpasek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👤 O mnie
+Jestem **Technikiem Informatykiem** oraz studentem **Informatyki Stosowanej na Politechnice Krakowskiej**. Skupiam się na rozwoju jako **Full-stack Developer**, łącząc solidne podstawy inżynierskie z nowoczesnymi technologiami webowymi.
 
-Here are some ideas to get you started:
+* **Ambicja i rozwój:** Nie boję się wyzwań i szybko adaptuję się do nowych wymagań.
+* **Aktualny fokus:** Obecnie intensywnie pracuję nad projektami w **"Raw Java"**, aby opanować fundamenty języka na najwyższym poziomie, co w przyszłości pozwoli mi na budowanie zaawansowanych aplikacji z solidnym frontendem.
+* **Technologie:** Zgłębiam tajniki ekosystemu **Java + Spring Boot** oraz nowoczesnego **Web Developmentu**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+| Obszar / Category | Technologie / Technologies |
+| :--- | :--- |
+| **Backend** | Java (Basic/Junior - still learning) + Spring Boot (in progress) |
+| **Backend (basics)** | Python, C++, .NET |
+| **Frontend** | HTML, CSS, React (in progress), JS (in progress) |
+| **Narzędzia** | Git, GitHub, Networking (Switching/Routing), IntelliJ IDEA, MYSQL (basics) |
+
+---
+
+### 🎓 Edukacja & Kursy
+* **Politechnika Krakowska**: Informatyka Stosowana
+* **Zespół Szkół Informatycznych im. gen. Józefa Hauke-Bosaka w Kielcach**
+* **Technik informatyk** - egzamin (inf02 inf03)
+* **Certyfikat** - **Praktyczny Python** - 10 projektów krok po kroku
+
+---
+
+### 📫 Kontakt
+* **LinkedIn:** [linkedin.com/in/wiktor-pasek](https://www.linkedin.com/in/wiktor-pasek-160651339/)
+* **Email:** wiktorpasekcsgo1@gmail.com
+
+---
+
